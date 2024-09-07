@@ -547,7 +547,7 @@ footer {
   }
   
   #about-pic {
-      width: 50%; /* Adjust the size of the picture */
+      width: 100%; /* Adjust the size of the picture */
       height: auto;
   }
 
